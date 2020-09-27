@@ -1,7 +1,7 @@
 # Default language if you have a multi-language setup
 DefaultContentLanguage = "en"
 
-baseURL = "https://robok3000.github.io/texter/"
+baseURL = "https://github.com/Robok3000/texter"
 
 theme = "amperage"
 

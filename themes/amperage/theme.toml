@@ -1,11 +1,11 @@
 name = "Amperage"
 
 license = "MIT"
-licenselink = "https://github.com/asurbernardo/amperage/blob/master/LICENSE"
+licenselink = ""
 
 description = "Blazing fast SEO optimized theme with native AMP, structured data, service workers and i18n out of the box!"
 
-homepage = "https://github.com/asurbernardo/amperage"
+homepage = "https://github.com/Robok3000/texter"
 
 tags = ["blog", "personal", "responsive", 'minimal', 'clean', "simple", "google analytics", "light",
     "multilingual", "syntax highlighting", "fast", "customizable", "minimalistic", "technical", "amp",
@@ -17,5 +17,5 @@ features = ["amp", "seo", "pwa", "structured data", "toc", "related content", "s
 min_version = "0.60.0"
 
 [author]
-    name = "Asur Bernardo"
-    homepage = "https://asur.dev"
+    name = "RETER"
+    homepage = ""
