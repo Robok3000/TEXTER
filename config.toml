@@ -78,7 +78,9 @@ paginate = 3
     publisherName = "amperage"
     publisherLogo = "/logo-amp-article.png"
     publisherLogoWidth = 600
-    publisherLogoHeight = 60
+    publisherLogoHeight =
+
+    publishDir = "docs"
 
 [markup]
     defaultMarkdownHandler = "blackfriday"
