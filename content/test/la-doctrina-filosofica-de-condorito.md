@@ -4,7 +4,7 @@ date = "2019-12-23T12:09:32+02:00"
 publishdate = "2019-12-23T12:09:32+02:00"
 
 title = "La doctrina filosófica de Condorito"
-description = "Un ensayo sobre el -Ejijo una explicación- de Condorito"
+description = "Un ensayo sobre el Ejijo una explicación de Condorito"
 summary = "Todo aquel que ha leído a Condorito se ha percatado que la mayoría de los chistes terminan con un ¡Plop! y la caída de espaldas de la persona que recibe el remate de la broma..."
 
 tags = [
@@ -14,7 +14,7 @@ tags = [
 keywords = ['hugo', 'emoji', 'example']
 
 [author]
-    name = "Asur"
+    name = "Negro Adasme"
     homepage = "/"
 
 [twitter]
